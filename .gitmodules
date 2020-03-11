@@ -3,7 +3,7 @@
 	url = https://github.com/qicosmos/cinatra.git
 [submodule "ormpp"]
 	path = ormpp
-	url = https://github.com/qicosmos/ormpp.git
+	url = https://github.com/GroundZeroGreyHead/ormpp.git 
 [submodule "iguana"]
 	path = iguana
 	url = https://github.com/qicosmos/iguana.git
